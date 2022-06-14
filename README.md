@@ -1,6 +1,6 @@
-Hi, I’m José Arias@joseearias
+Hi, I’m José Arias
 
-I’m a CS student and Web Developer
+I’m a CS student and Web Developer.
 
 You can reach me at j.ariascanto@gmail.com
 
